@@ -4,7 +4,7 @@ bugs.python.org is essentially a custom workflow engine for the CPython core
 development team. This means it needs a meta-tracker to track feature requests,
 as well as a general issue tracker to track maintainability and usability issues.
 
-Historically that meta-tracker has been maintained at http://psf.upfronthosting.co.za/roundup/meta,
+Historically that meta-tracker has been maintained at https://bugs.python.org/,
 but it doesn't need any kind of heavy customisation or integration with other tools, so GitHub
 Issues serve the purpose better than maintaining a second Roundup instance does.
 
